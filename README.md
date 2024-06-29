@@ -4,7 +4,7 @@
 
 This project is an interactive chat application where users can converse with an AI model and provide feedback on the responses. The application supports multiple conversations and allows users to revisit and review past interactions along with the provided feedback.
 
-##Features
+## Features
 
 1. Interactive Chat: Engage in a conversation with an AI model.
 2. Feedback Mechanism: Users can give thumbs up/thumbs down on each AI response.
